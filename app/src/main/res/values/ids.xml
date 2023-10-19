@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="login_et" type="id" />
+    <item name="essentials_RV" type="id" />
+    <item name="delete" type="id" />
 </resources>
