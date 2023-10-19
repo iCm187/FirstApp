@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name_to_acces_the_systeme">Enter your name to acces the systeme</string>
+    <string name="connexion">Connexion</string>
+    <string name="display_android_essentials">Display Android Essentials</string>
+</resources>
