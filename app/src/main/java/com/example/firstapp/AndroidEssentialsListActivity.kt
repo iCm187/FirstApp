@@ -23,7 +23,7 @@ class AndroidEssentialsListActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_android_essential_list)
+        setContentView(R.layout.activity_android_essentials_list)
         setViewItems()
     }
 

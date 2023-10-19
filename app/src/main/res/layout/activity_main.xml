@@ -31,12 +31,23 @@
         android:gravity="center"
         />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/code"
+        android:id="@+id/email"
+        android:layout_marginTop="60dp"
+        android:hint="@string/enter_your_email_to_acces_the_systeme"
+        android:gravity="center"
+        />
+
     <Button
         android:id="@+id/login_bt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/code"
+        app:layout_constraintTop_toBottomOf="@id/email"
         android:layout_marginTop="60dp"
         android:text="@string/connexion"
         android:gravity="center"
